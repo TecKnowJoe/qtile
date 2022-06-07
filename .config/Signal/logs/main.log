@@ -1,0 +1,10 @@
+{"level":30,"time":"2022-06-07T00:05:27.723Z","pid":4216,"hostname":"archlinux","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1902,\"height\":694,\"x\":1929,\"y\":9}"}
+{"level":30,"time":"2022-06-07T00:05:27.723Z","pid":4216,"hostname":"archlinux","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2022-06-07T00:05:27.723Z","pid":4216,"hostname":"archlinux","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2022-06-07T00:05:29.101Z","pid":4216,"hostname":"archlinux","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-06-07T00:05:29.101Z","pid":4216,"hostname":"archlinux","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-06-07T00:05:31.834Z","pid":4216,"hostname":"archlinux","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-06-07T00:05:31.834Z","pid":4216,"hostname":"archlinux","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-06-07T00:05:36.521Z","pid":4216,"hostname":"archlinux","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1902,\"height\":694,\"x\":1925,\"y\":5}"}
+{"level":30,"time":"2022-06-07T00:05:36.521Z","pid":4216,"hostname":"archlinux","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2022-06-07T00:05:36.521Z","pid":4216,"hostname":"archlinux","msg":"config/set: Saved ephemeral config to disk"}

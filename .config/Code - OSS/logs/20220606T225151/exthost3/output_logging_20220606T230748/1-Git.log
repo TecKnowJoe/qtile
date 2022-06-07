@@ -1,0 +1,12 @@
+[2022-06-06T23:08:12.003Z] Validating found git in: git
+[2022-06-06T23:08:12.016Z] Using git 2.36.1 from git
+[2022-06-06T23:08:12.028Z] > git rev-parse --show-toplevel [4ms]
+[2022-06-06T23:08:12.043Z] > git rev-parse --git-dir --git-common-dir [6ms]
+[2022-06-06T23:08:12.052Z] Open repository: /home/joe/archlabs-qtile
+[2022-06-06T23:08:12.338Z] > git status -z -uall [278ms]
+[2022-06-06T23:08:12.344Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-06T23:08:12.351Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+[2022-06-06T23:08:12.360Z] > git remote --verbose [1ms]
+[2022-06-06T23:08:12.361Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-06-06T23:08:12.369Z] > git config --get commit.template [2ms]
+[2022-06-06T23:08:12.601Z] > git check-ignore -v -z --stdin [2ms]

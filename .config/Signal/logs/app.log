@@ -1,0 +1,242 @@
+{"level":30,"time":"2022-06-07T00:00:05.490Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:00:26.499Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:00:38.984Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:01:00.581Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:01:25.937Z","pid":4307,"hostname":"archlinux","msg":"RetryPlaceholders.getExpiredAndRemove: Found 0 expired items"}
+{"level":30,"time":"2022-06-07T00:01:25.970Z","pid":4307,"hostname":"archlinux","msg":"retryPlaceholders/interval: Found 0 expired items"}
+{"level":30,"time":"2022-06-07T00:01:26.497Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:01:34.072Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:01:55.671Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:02:26.500Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:02:29.154Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:02:50.770Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:03:24.257Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:03:26.499Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:03:45.860Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:04:19.362Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:04:26.499Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:04:40.954Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:05:14.467Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:05:26.499Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:05:27.214Z","pid":4307,"hostname":"archlinux","msg":"NotificationService: clearing notification and requesting an update"}
+{"level":30,"time":"2022-06-07T00:05:27.227Z","pid":4307,"hostname":"archlinux","msg":"markConversationRead {\"conversationId\":\"[REDACTED]4f5 ([REDACTED]e74)\",\"newestSentAt\":1654557522250,\"newestUnreadAt\":331,\"unreadMessages\":0,\"unreadReactions\":0}"}
+{"level":30,"time":"2022-06-07T00:05:28.215Z","pid":4307,"hostname":"archlinux","msg":"NotificationService not updating notifications. Notifications are enabled; app is focused; there is no notification data"}
+{"level":30,"time":"2022-06-07T00:05:28.262Z","pid":4307,"hostname":"archlinux","msg":"unloading conversation [REDACTED]4f5 ([REDACTED]e74) due to: model trigger - opened another conversation"}
+{"level":30,"time":"2022-06-07T00:05:28.285Z","pid":4307,"hostname":"archlinux","msg":"conversation [REDACTED]be6 ([REDACTED]915) open start"}
+{"level":30,"time":"2022-06-07T00:05:28.296Z","pid":4307,"hostname":"archlinux","msg":"getProfile: getting versioned profile for conversation [REDACTED]be6 ([REDACTED]915)"}
+{"level":30,"time":"2022-06-07T00:05:28.296Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]be6/[REDACTED]aab (unauth)"}
+{"level":30,"time":"2022-06-07T00:05:28.296Z","pid":4307,"hostname":"archlinux","msg":"Cycling agent for type -unauth"}
+{"level":30,"time":"2022-06-07T00:05:28.296Z","pid":4307,"hostname":"archlinux","msg":"SocketManager: starting expiration timer for unauthenticated socket"}
+{"level":30,"time":"2022-06-07T00:05:28.301Z","pid":4307,"hostname":"archlinux","msg":"changedConvoBatcher: deduped 1 into 1"}
+{"level":30,"time":"2022-06-07T00:05:28.434Z","pid":4307,"hostname":"archlinux","msg":"conversation [REDACTED]be6 ([REDACTED]915) open took 148ms"}
+{"level":30,"time":"2022-06-07T00:05:28.516Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]be6/[REDACTED]aab 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:28.516Z","pid":4307,"hostname":"archlinux","msg":"getProfile: setting sealedSender to ENABLED for conversation [REDACTED]be6 ([REDACTED]915)"}
+{"level":30,"time":"2022-06-07T00:05:28.587Z","pid":4307,"hostname":"archlinux","msg":"markConversationRead {\"conversationId\":\"[REDACTED]be6 ([REDACTED]915)\",\"newestSentAt\":1654558342077,\"newestUnreadAt\":335,\"unreadMessages\":0,\"unreadReactions\":0}"}
+{"level":30,"time":"2022-06-07T00:05:28.830Z","pid":4307,"hostname":"archlinux","msg":"unloading conversation [REDACTED]be6 ([REDACTED]915) due to: model trigger - opened another conversation"}
+{"level":30,"time":"2022-06-07T00:05:28.855Z","pid":4307,"hostname":"archlinux","msg":"conversation groupv2([REDACTED]Ai8=) open start"}
+{"level":30,"time":"2022-06-07T00:05:28.863Z","pid":4307,"hostname":"archlinux","msg":"waitForEmptyEventQueue: Waiting for event handler queue idle..."}
+{"level":30,"time":"2022-06-07T00:05:28.863Z","pid":4307,"hostname":"archlinux","msg":"getProfile: getting versioned profile for conversation [REDACTED]4f5 ([REDACTED]e74)"}
+{"level":30,"time":"2022-06-07T00:05:28.863Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]4f5/[REDACTED]cd5 (unauth)"}
+{"level":30,"time":"2022-06-07T00:05:28.864Z","pid":4307,"hostname":"archlinux","msg":"getProfile: getting versioned profile for conversation [REDACTED]fa8 ([REDACTED]63b)"}
+{"level":30,"time":"2022-06-07T00:05:28.864Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]fa8/[REDACTED]351 (unauth)"}
+{"level":30,"time":"2022-06-07T00:05:28.864Z","pid":4307,"hostname":"archlinux","msg":"getProfile: getting versioned profile for conversation [REDACTED]408 ([REDACTED]6dc)"}
+{"level":30,"time":"2022-06-07T00:05:28.864Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]408/[REDACTED]44b (unauth)"}
+{"level":30,"time":"2022-06-07T00:05:28.865Z","pid":4307,"hostname":"archlinux","msg":"maybeFetchCredentials: fetching credentials for 19157 through 19157"}
+{"level":30,"time":"2022-06-07T00:05:28.865Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/certificate/group/19157/19157?identity=aci"}
+{"level":30,"time":"2022-06-07T00:05:28.865Z","pid":4307,"hostname":"archlinux","msg":"Cycling agent for type -auth"}
+{"level":30,"time":"2022-06-07T00:05:28.957Z","pid":4307,"hostname":"archlinux","msg":"conversation groupv2([REDACTED]Ai8=) open took 101ms"}
+{"level":30,"time":"2022-06-07T00:05:29.008Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]4f5/[REDACTED]cd5 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.008Z","pid":4307,"hostname":"archlinux","msg":"getProfile: setting sealedSender to ENABLED for conversation [REDACTED]4f5 ([REDACTED]e74)"}
+{"level":30,"time":"2022-06-07T00:05:29.009Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://cdn.signal.org/[REDACTED]ZKA"}
+{"level":30,"time":"2022-06-07T00:05:29.011Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]fa8/[REDACTED]351 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.011Z","pid":4307,"hostname":"archlinux","msg":"getProfile: setting sealedSender to ENABLED for conversation [REDACTED]fa8 ([REDACTED]63b)"}
+{"level":30,"time":"2022-06-07T00:05:29.011Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://cdn.signal.org/[REDACTED]odg"}
+{"level":30,"time":"2022-06-07T00:05:29.014Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]408/[REDACTED]44b 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.014Z","pid":4307,"hostname":"archlinux","msg":"getProfile: setting sealedSender to ENABLED for conversation [REDACTED]408 ([REDACTED]6dc)"}
+{"level":30,"time":"2022-06-07T00:05:29.015Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://cdn.signal.org/[REDACTED]xTw"}
+{"level":30,"time":"2022-06-07T00:05:29.017Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/certificate/group/19157/19157?identity=aci 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.021Z","pid":4307,"hostname":"archlinux","msg":"maybeFetchCredentials: Saving new credentials..."}
+{"level":30,"time":"2022-06-07T00:05:29.021Z","pid":4307,"hostname":"archlinux","msg":"maybeFetchCredentials: Save complete."}
+{"level":30,"time":"2022-06-07T00:05:29.021Z","pid":4307,"hostname":"archlinux","msg":"getGroupUpdates/groupv2([REDACTED]Ai8=): Starting..."}
+{"level":30,"time":"2022-06-07T00:05:29.022Z","pid":4307,"hostname":"archlinux","msg":"updateGroupViaLogs/groupv2([REDACTED]Ai8=): Getting group delta from 16 to ? for group groupv2([REDACTED]Ai8=)..."}
+{"level":30,"time":"2022-06-07T00:05:29.024Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://storage.signal.org/v1/groups/logs/16?includeFirstState=true&includeLastState=true&maxSupportedChangeEpoch=4"}
+{"level":30,"time":"2022-06-07T00:05:29.082Z","pid":4307,"hostname":"archlinux","msg":"markConversationRead {\"conversationId\":\"groupv2([REDACTED]Ai8=)\",\"newestSentAt\":1654557260707,\"newestUnreadAt\":321,\"unreadMessages\":1,\"unreadReactions\":2}"}
+{"level":30,"time":"2022-06-07T00:05:29.082Z","pid":4307,"hostname":"archlinux","msg":"NotificationService#removeBy: no notification data"}
+{"level":30,"time":"2022-06-07T00:05:29.095Z","pid":4307,"hostname":"archlinux","msg":"Sending 2 read syncs"}
+{"level":30,"time":"2022-06-07T00:05:29.095Z","pid":4307,"hostname":"archlinux","msg":"JobQueueDatabaseStore adding job [REDACTED]c79 to queue \"read sync\""}
+{"level":30,"time":"2022-06-07T00:05:29.096Z","pid":4307,"hostname":"archlinux","msg":"JobQueueDatabaseStore adding job [REDACTED]23b to queue \"read receipts\""}
+{"level":30,"time":"2022-06-07T00:05:29.099Z","pid":4307,"hostname":"archlinux","msg":"read sync job queue: added new job [REDACTED]c79"}
+{"level":30,"time":"2022-06-07T00:05:29.099Z","pid":4307,"hostname":"archlinux","msg":"read sync job queue: enqueuing job [REDACTED]c79"}
+{"level":30,"time":"2022-06-07T00:05:29.099Z","pid":4307,"hostname":"archlinux","msg":"read sync job queue: running job [REDACTED]c79, attempt 1 of 110"}
+{"level":30,"time":"2022-06-07T00:05:29.099Z","pid":4307,"hostname":"archlinux","msg":"read sync job queue, job ID [REDACTED]c79, attempt 1: sending readSync(s) for timestamp(s) 1654557260707, 1654557260707"}
+{"level":30,"time":"2022-06-07T00:05:29.100Z","pid":4307,"hostname":"archlinux","msg":"read sync job queue, job ID [REDACTED]c79, attempt 1: sleeping for 0"}
+{"level":30,"time":"2022-06-07T00:05:29.100Z","pid":4307,"hostname":"archlinux","msg":"read receipts job queue: added new job [REDACTED]23b"}
+{"level":30,"time":"2022-06-07T00:05:29.100Z","pid":4307,"hostname":"archlinux","msg":"read receipts job queue: enqueuing job [REDACTED]23b"}
+{"level":30,"time":"2022-06-07T00:05:29.100Z","pid":4307,"hostname":"archlinux","msg":"read receipts job queue: running job [REDACTED]23b, attempt 1 of 110"}
+{"level":30,"time":"2022-06-07T00:05:29.100Z","pid":4307,"hostname":"archlinux","msg":"read receipts job queue, job ID [REDACTED]23b, attempt 1: sleeping for 0"}
+{"level":30,"time":"2022-06-07T00:05:29.103Z","pid":4307,"hostname":"archlinux","msg":"commitZoneChanges(storeSession): pending sender keys 0, pending sessions 1, pending unprocessed 0"}
+{"level":30,"time":"2022-06-07T00:05:29.119Z","pid":4307,"hostname":"archlinux","msg":"Sender certificate service found a valid yes-E164 certificate in storage; skipping fetch"}
+{"level":30,"time":"2022-06-07T00:05:29.120Z","pid":4307,"hostname":"archlinux","msg":"changedConvoBatcher: deduped 1 into 1"}
+{"level":30,"time":"2022-06-07T00:05:29.132Z","pid":4307,"hostname":"archlinux","msg":"@signalapp/libsignal-client Building PreKeyWhisperMessage for: [REDACTED]4f5.2 with preKeyId: 25 libsignal_protocol::session_cipher rust/protocol/src/session_cipher.rs:60"}
+{"level":30,"time":"2022-06-07T00:05:29.133Z","pid":4307,"hostname":"archlinux","msg":"commitZoneChanges(storeSession): pending sender keys 0, pending sessions 1, pending unprocessed 0"}
+{"level":30,"time":"2022-06-07T00:05:29.133Z","pid":4307,"hostname":"archlinux","msg":"commitZoneChanges(storeSession): pending sender keys 0, pending sessions 1, pending unprocessed 0"}
+{"level":30,"time":"2022-06-07T00:05:29.138Z","pid":4307,"hostname":"archlinux","msg":"PUT (WS) https://chat.signal.org/v1/messages/[REDACTED]2a5"}
+{"level":30,"time":"2022-06-07T00:05:29.140Z","pid":4307,"hostname":"archlinux","msg":"PUT (WS) https://chat.signal.org/v1/messages/[REDACTED]4f5 (unauth)"}
+{"level":30,"time":"2022-06-07T00:05:29.220Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://cdn.signal.org/[REDACTED]ZKA 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.221Z","pid":4307,"hostname":"archlinux","msg":"getProfile: getting versioned profile for conversation [REDACTED]aac ([REDACTED]53a)"}
+{"level":30,"time":"2022-06-07T00:05:29.221Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]aac/[REDACTED]3f2 (unauth)"}
+{"level":30,"time":"2022-06-07T00:05:29.222Z","pid":4307,"hostname":"archlinux","msg":"PUT (WS) https://chat.signal.org/v1/messages/[REDACTED]2a5 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.224Z","pid":4307,"hostname":"archlinux","msg":"read sync job queue: job [REDACTED]c79 succeeded on attempt 1"}
+{"level":30,"time":"2022-06-07T00:05:29.225Z","pid":4307,"hostname":"archlinux","msg":"PUT (WS) https://chat.signal.org/v1/messages/[REDACTED]4f5 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.227Z","pid":4307,"hostname":"archlinux","msg":"read receipts job queue: job [REDACTED]23b succeeded on attempt 1"}
+{"level":30,"time":"2022-06-07T00:05:29.310Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]aac/[REDACTED]3f2 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.310Z","pid":4307,"hostname":"archlinux","msg":"getProfile: setting sealedSender to ENABLED for conversation [REDACTED]aac ([REDACTED]53a)"}
+{"level":30,"time":"2022-06-07T00:05:29.311Z","pid":4307,"hostname":"archlinux","msg":"getProfile: getting versioned profile for conversation [REDACTED]b1a ([REDACTED]048)"}
+{"level":30,"time":"2022-06-07T00:05:29.311Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]b1a/[REDACTED]f01 (unauth)"}
+{"level":30,"time":"2022-06-07T00:05:29.334Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://storage.signal.org/v1/groups/logs/16?includeFirstState=true&includeLastState=true&maxSupportedChangeEpoch=4 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.337Z","pid":4307,"hostname":"archlinux","msg":"integrateGroupChange/groupv2([REDACTED]Ai8=): Applying full group state, from version 16 to 16 {\"isChangePresent\":true,\"isChangeSupported\":true,\"isFirstFetch\":false,\"isSameVersion\":true,\"isMoreThanOneVersionUp\":false}"}
+{"level":30,"time":"2022-06-07T00:05:29.355Z","pid":4307,"hostname":"archlinux","msg":"extractDiffs/groupv2([REDACTED]Ai8=) complete, generated 0 change messages"}
+{"level":30,"time":"2022-06-07T00:05:29.355Z","pid":4307,"hostname":"archlinux","msg":"Conversation job waitThenMaybeUpdateGroup took 491ms"}
+{"level":30,"time":"2022-06-07T00:05:29.355Z","pid":4307,"hostname":"archlinux","msg":"Conversation job maybeSetPendingUniversalTimer was blocked for 478ms"}
+{"level":30,"time":"2022-06-07T00:05:29.395Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]b1a/[REDACTED]f01 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.395Z","pid":4307,"hostname":"archlinux","msg":"getProfile: setting sealedSender to ENABLED for conversation [REDACTED]b1a ([REDACTED]048)"}
+{"level":30,"time":"2022-06-07T00:05:29.396Z","pid":4307,"hostname":"archlinux","msg":"getProfile: getting versioned profile for conversation [REDACTED]2a5 ([REDACTED]33b)"}
+{"level":30,"time":"2022-06-07T00:05:29.396Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]2a5/[REDACTED]26e (unauth)"}
+{"level":30,"time":"2022-06-07T00:05:29.485Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]2a5/[REDACTED]26e 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.486Z","pid":4307,"hostname":"archlinux","msg":"getProfile: setting sealedSender to ENABLED for conversation [REDACTED]2a5 ([REDACTED]33b)"}
+{"level":30,"time":"2022-06-07T00:05:29.540Z","pid":4307,"hostname":"archlinux","msg":"BadgeDownloader#checkForFilesToDownload: downloading 0 badge(s)"}
+{"level":30,"time":"2022-06-07T00:05:29.541Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://cdn.signal.org/[REDACTED]WSA"}
+{"level":30,"time":"2022-06-07T00:05:29.544Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://cdn.signal.org/[REDACTED]xTw 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.564Z","pid":4307,"hostname":"archlinux","msg":"getProfile: getting versioned profile for conversation [REDACTED]ded ([REDACTED]b2c)"}
+{"level":30,"time":"2022-06-07T00:05:29.564Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]ded/[REDACTED]f9e (unauth)"}
+{"level":30,"time":"2022-06-07T00:05:29.571Z","pid":4307,"hostname":"archlinux","msg":"markConversationRead {\"conversationId\":\"groupv2([REDACTED]Ai8=)\",\"newestSentAt\":1654557260707,\"newestUnreadAt\":321,\"unreadMessages\":0,\"unreadReactions\":0}"}
+{"level":30,"time":"2022-06-07T00:05:29.586Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://cdn.signal.org/[REDACTED]odg 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.653Z","pid":4307,"hostname":"archlinux","msg":"GET (WS) https://chat.signal.org/v1/profile/[REDACTED]ded/[REDACTED]f9e 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:29.654Z","pid":4307,"hostname":"archlinux","msg":"getProfile: setting sealedSender to ENABLED for conversation [REDACTED]ded ([REDACTED]b2c)"}
+{"level":30,"time":"2022-06-07T00:05:30.083Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://cdn.signal.org/[REDACTED]WSA 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:30.100Z","pid":4307,"hostname":"archlinux","msg":"checkExpiringMessages: checking for expiring messages"}
+{"level":30,"time":"2022-06-07T00:05:30.101Z","pid":4307,"hostname":"archlinux","msg":"checkExpiringMessages: found no messages to expire"}
+{"level":30,"time":"2022-06-07T00:05:30.325Z","pid":4307,"hostname":"archlinux","msg":"maybeFetchCredentials: no new credentials needed"}
+{"level":30,"time":"2022-06-07T00:05:30.328Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://storage.signal.org/v1/groups/token"}
+{"level":30,"time":"2022-06-07T00:05:30.438Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://storage.signal.org/v1/groups/token 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:30.443Z","pid":4307,"hostname":"archlinux","msg":"src/lite/http.rs:163 http::DelegatingClient::make_request()"}
+{"level":30,"time":"2022-06-07T00:05:30.443Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://sfu.voip.signal.org/v2/conference/participants"}
+{"level":50,"time":"2022-06-07T00:05:30.660Z","pid":4307,"hostname":"archlinux","msg":"GET (REST) https://sfu.voip.signal.org/v2/conference/participants 404 Error"}
+{"level":30,"time":"2022-06-07T00:05:30.661Z","pid":4307,"hostname":"archlinux","msg":"src/core/call_manager.rs:570 API:CallManager::handle_received_http_response():"}
+{"level":30,"time":"2022-06-07T00:05:30.661Z","pid":4307,"hostname":"archlinux","msg":"src/core/call_manager.rs:1609 handle_received_http_response(): request_id: 0"}
+{"level":30,"time":"2022-06-07T00:05:30.661Z","pid":4307,"hostname":"archlinux","msg":"src/lite/http.rs:127 http::DelegatingClient::received_response(): request_id: 0"}
+{"level":30,"time":"2022-06-07T00:05:30.661Z","pid":4307,"hostname":"archlinux","msg":"src/lite/http.rs:134   status_code: 404"}
+{"level":30,"time":"2022-06-07T00:05:30.661Z","pid":4307,"hostname":"archlinux","msg":"src/lite/sfu.rs:330 Got group call peek result with device count = 0 (status code 404)"}
+{"level":30,"time":"2022-06-07T00:05:30.661Z","pid":4307,"hostname":"archlinux","msg":"src/core/call_manager.rs:2482 handle_peek_response"}
+{"level":30,"time":"2022-06-07T00:05:30.661Z","pid":4307,"hostname":"archlinux","msg":"src/native.rs:951 NativePlatform::handle_peek_result(): id: 1"}
+{"level":30,"time":"2022-06-07T00:05:30.661Z","pid":4307,"hostname":"archlinux","msg":"doGroupCallPeek/groupv2([REDACTED]Ai8=): Found 0 devices"}
+{"level":30,"time":"2022-06-07T00:05:31.288Z","pid":4307,"hostname":"archlinux","msg":"markConversationRead {\"conversationId\":\"groupv2([REDACTED]Ai8=)\",\"newestSentAt\":1654557260707,\"newestUnreadAt\":321,\"unreadMessages\":0,\"unreadReactions\":0}"}
+{"level":30,"time":"2022-06-07T00:05:31.793Z","pid":4307,"hostname":"archlinux","msg":"markConversationRead {\"conversationId\":\"groupv2([REDACTED]Ai8=)\",\"newestSentAt\":1654559515676,\"newestUnreadAt\":339,\"unreadMessages\":1,\"unreadReactions\":1}"}
+{"level":30,"time":"2022-06-07T00:05:31.793Z","pid":4307,"hostname":"archlinux","msg":"NotificationService#removeBy: no notification data"}
+{"level":30,"time":"2022-06-07T00:05:31.825Z","pid":4307,"hostname":"archlinux","msg":"Sending 2 read syncs"}
+{"level":30,"time":"2022-06-07T00:05:31.826Z","pid":4307,"hostname":"archlinux","msg":"JobQueueDatabaseStore adding job [REDACTED]b86 to queue \"read sync\""}
+{"level":30,"time":"2022-06-07T00:05:31.826Z","pid":4307,"hostname":"archlinux","msg":"JobQueueDatabaseStore adding job [REDACTED]a69 to queue \"read receipts\""}
+{"level":30,"time":"2022-06-07T00:05:31.828Z","pid":4307,"hostname":"archlinux","msg":"read sync job queue: added new job [REDACTED]b86"}
+{"level":30,"time":"2022-06-07T00:05:31.828Z","pid":4307,"hostname":"archlinux","msg":"read sync job queue: enqueuing job [REDACTED]b86"}
+{"level":30,"time":"2022-06-07T00:05:31.829Z","pid":4307,"hostname":"archlinux","msg":"read sync job queue: running job [REDACTED]b86, attempt 1 of 110"}
+{"level":30,"time":"2022-06-07T00:05:31.829Z","pid":4307,"hostname":"archlinux","msg":"read sync job queue, job ID [REDACTED]b86, attempt 1: sending readSync(s) for timestamp(s) 1654559515676, 1654559515676"}
+{"level":30,"time":"2022-06-07T00:05:31.829Z","pid":4307,"hostname":"archlinux","msg":"read sync job queue, job ID [REDACTED]b86, attempt 1: sleeping for 0"}
+{"level":30,"time":"2022-06-07T00:05:31.829Z","pid":4307,"hostname":"archlinux","msg":"read receipts job queue: added new job [REDACTED]a69"}
+{"level":30,"time":"2022-06-07T00:05:31.830Z","pid":4307,"hostname":"archlinux","msg":"read receipts job queue: enqueuing job [REDACTED]a69"}
+{"level":30,"time":"2022-06-07T00:05:31.830Z","pid":4307,"hostname":"archlinux","msg":"read receipts job queue: running job [REDACTED]a69, attempt 1 of 110"}
+{"level":30,"time":"2022-06-07T00:05:31.830Z","pid":4307,"hostname":"archlinux","msg":"read receipts job queue, job ID [REDACTED]a69, attempt 1: sleeping for 0"}
+{"level":30,"time":"2022-06-07T00:05:31.834Z","pid":4307,"hostname":"archlinux","msg":"commitZoneChanges(storeSession): pending sender keys 0, pending sessions 1, pending unprocessed 0"}
+{"level":30,"time":"2022-06-07T00:05:31.835Z","pid":4307,"hostname":"archlinux","msg":"Sender certificate service found a valid yes-E164 certificate in storage; skipping fetch"}
+{"level":30,"time":"2022-06-07T00:05:31.836Z","pid":4307,"hostname":"archlinux","msg":"changedConvoBatcher: deduped 1 into 1"}
+{"level":30,"time":"2022-06-07T00:05:31.862Z","pid":4307,"hostname":"archlinux","msg":"commitZoneChanges(storeSession): pending sender keys 0, pending sessions 1, pending unprocessed 0"}
+{"level":30,"time":"2022-06-07T00:05:31.862Z","pid":4307,"hostname":"archlinux","msg":"commitZoneChanges(storeSession): pending sender keys 0, pending sessions 1, pending unprocessed 0"}
+{"level":30,"time":"2022-06-07T00:05:31.876Z","pid":4307,"hostname":"archlinux","msg":"PUT (WS) https://chat.signal.org/v1/messages/[REDACTED]2a5"}
+{"level":30,"time":"2022-06-07T00:05:31.877Z","pid":4307,"hostname":"archlinux","msg":"PUT (WS) https://chat.signal.org/v1/messages/[REDACTED]fa8 (unauth)"}
+{"level":30,"time":"2022-06-07T00:05:31.963Z","pid":4307,"hostname":"archlinux","msg":"PUT (WS) https://chat.signal.org/v1/messages/[REDACTED]2a5 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:31.966Z","pid":4307,"hostname":"archlinux","msg":"PUT (WS) https://chat.signal.org/v1/messages/[REDACTED]fa8 200 Success"}
+{"level":30,"time":"2022-06-07T00:05:31.966Z","pid":4307,"hostname":"archlinux","msg":"read sync job queue: job [REDACTED]b86 succeeded on attempt 1"}
+{"level":30,"time":"2022-06-07T00:05:31.967Z","pid":4307,"hostname":"archlinux","msg":"read receipts job queue: job [REDACTED]a69 succeeded on attempt 1"}
+{"level":30,"time":"2022-06-07T00:05:32.312Z","pid":4307,"hostname":"archlinux","msg":"markConversationRead {\"conversationId\":\"groupv2([REDACTED]Ai8=)\",\"newestSentAt\":1654559515676,\"newestUnreadAt\":339,\"unreadMessages\":0,\"unreadReactions\":0}"}
+{"level":30,"time":"2022-06-07T00:05:32.836Z","pid":4307,"hostname":"archlinux","msg":"checkExpiringMessages: checking for expiring messages"}
+{"level":30,"time":"2022-06-07T00:05:32.837Z","pid":4307,"hostname":"archlinux","msg":"markConversationRead {\"conversationId\":\"groupv2([REDACTED]Ai8=)\",\"newestSentAt\":1654557260707,\"newestUnreadAt\":321,\"unreadMessages\":0,\"unreadReactions\":0}"}
+{"level":30,"time":"2022-06-07T00:05:32.838Z","pid":4307,"hostname":"archlinux","msg":"checkExpiringMessages: found no messages to expire"}
+{"level":30,"time":"2022-06-07T00:05:33.337Z","pid":4307,"hostname":"archlinux","msg":"markConversationRead {\"conversationId\":\"groupv2([REDACTED]Ai8=)\",\"newestSentAt\":1654557260707,\"newestUnreadAt\":321,\"unreadMessages\":0,\"unreadReactions\":0}"}
+{"level":30,"time":"2022-06-07T00:05:33.806Z","pid":4307,"hostname":"archlinux","msg":"markConversationRead {\"conversationId\":\"groupv2([REDACTED]Ai8=)\",\"newestSentAt\":1654557260707,\"newestUnreadAt\":321,\"unreadMessages\":0,\"unreadReactions\":0}"}
+{"level":30,"time":"2022-06-07T00:05:34.310Z","pid":4307,"hostname":"archlinux","msg":"markConversationRead {\"conversationId\":\"groupv2([REDACTED]Ai8=)\",\"newestSentAt\":1654559515676,\"newestUnreadAt\":339,\"unreadMessages\":0,\"unreadReactions\":0}"}
+{"level":30,"time":"2022-06-07T00:06:25.936Z","pid":4307,"hostname":"archlinux","msg":"RetryPlaceholders.getExpiredAndRemove: Found 0 expired items"}
+{"level":30,"time":"2022-06-07T00:06:25.981Z","pid":4307,"hostname":"archlinux","msg":"retryPlaceholders/interval: Found 0 expired items"}
+{"level":30,"time":"2022-06-07T00:06:26.501Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:06:26.963Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:06:26.965Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:07:22.089Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:07:22.090Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:07:26.500Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:08:17.190Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:08:17.191Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:08:26.503Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:09:12.317Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:09:12.319Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:09:26.502Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:10:07.420Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:10:07.421Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:10:14.939Z","pid":4307,"hostname":"archlinux","msg":"MessageReceiver: got request PUT /api/v1/message"}
+{"level":30,"time":"2022-06-07T00:10:15.015Z","pid":4307,"hostname":"archlinux","msg":"MessageReceiver.decryptAndCacheBatch 1"}
+{"level":30,"time":"2022-06-07T00:10:15.015Z","pid":4307,"hostname":"archlinux","msg":"SignalProtocolStore.enterZone(decryptAndCacheBatch:MessageReceiver)"}
+{"level":30,"time":"2022-06-07T00:10:15.016Z","pid":4307,"hostname":"archlinux","msg":"queueing ACI envelope > [REDACTED]2a5 1654560614058 (8a59ecac85874291827e25f12894e3fc)"}
+{"level":30,"time":"2022-06-07T00:10:15.016Z","pid":4307,"hostname":"archlinux","msg":"MessageReceiver.unsealEnvelope(> [REDACTED]2a5 1654560614058 (8a59ecac85874291827e25f12894e3fc)): unidentified message"}
+{"level":30,"time":"2022-06-07T00:10:15.019Z","pid":4307,"hostname":"archlinux","msg":"@signalapp/libsignal-client deserialized UnidentifiedSenderMessageContent from [REDACTED]408.1 with type SenderKey libsignal_protocol::sealed_sender rust/protocol/src/sealed_sender.rs:433"}
+{"level":30,"time":"2022-06-07T00:10:15.021Z","pid":4307,"hostname":"archlinux","msg":"MessageReceiver.decryptEnvelope([REDACTED]408.1 > [REDACTED]2a5 1654560614058 (8a59ecac85874291827e25f12894e3fc))"}
+{"level":30,"time":"2022-06-07T00:10:15.021Z","pid":4307,"hostname":"archlinux","msg":"decrypt/[REDACTED]408.1 > [REDACTED]2a5 1654560614058 (8a59ecac85874291827e25f12894e3fc): unidentified message"}
+{"level":30,"time":"2022-06-07T00:10:15.021Z","pid":4307,"hostname":"archlinux","msg":"MessageReceiver.decryptSealedSender([REDACTED]408.1 > [REDACTED]2a5 1654560614058 (8a59ecac85874291827e25f12894e3fc)): unidentified message/sender key contents"}
+{"level":30,"time":"2022-06-07T00:10:15.023Z","pid":4307,"hostname":"archlinux","msg":"Successfully fetched sender key (cache hit): [REDACTED]2a5:[REDACTED]408.1--[REDACTED]97f"}
+{"level":30,"time":"2022-06-07T00:10:15.026Z","pid":4307,"hostname":"archlinux","msg":"MessageReceiver.decryptAndCacheBatch storing 1 decrypted envelopes, keeping 0 failed envelopes."}
+{"level":30,"time":"2022-06-07T00:10:15.027Z","pid":4307,"hostname":"archlinux","msg":"commitZoneChanges(MessageReceiver): pending sender keys 1, pending sessions 0, pending unprocessed 1"}
+{"level":30,"time":"2022-06-07T00:10:15.037Z","pid":4307,"hostname":"archlinux","msg":"SignalProtocolStore.leaveZone(decryptAndCacheBatch)"}
+{"level":30,"time":"2022-06-07T00:10:15.037Z","pid":4307,"hostname":"archlinux","msg":"MessageReceiver.decryptAndCacheBatch acknowledging receipt"}
+{"level":30,"time":"2022-06-07T00:10:15.038Z","pid":4307,"hostname":"archlinux","msg":"queueing decrypted envelope [REDACTED]408.1 > [REDACTED]2a5 1654560614058 (8a59ecac85874291827e25f12894e3fc)"}
+{"level":30,"time":"2022-06-07T00:10:15.044Z","pid":4307,"hostname":"archlinux","msg":"MessageReceiver.handleDataMessage [REDACTED]408.1 > [REDACTED]2a5 1654560614058 (8a59ecac85874291827e25f12894e3fc)"}
+{"level":30,"time":"2022-06-07T00:10:15.045Z","pid":4307,"hostname":"archlinux","msg":"Queuing incoming reaction for 1654559515676"}
+{"level":30,"time":"2022-06-07T00:10:15.046Z","pid":4307,"hostname":"archlinux","msg":"MessageReceiver.decryptAndCacheBatch fully processed"}
+{"level":30,"time":"2022-06-07T00:10:15.047Z","pid":4307,"hostname":"archlinux","msg":"Handling reaction for 1654559515676"}
+{"level":30,"time":"2022-06-07T00:10:15.048Z","pid":4307,"hostname":"archlinux","msg":"handleReaction: adding reaction for message [REDACTED]fa8.1 1654559515676"}
+{"level":30,"time":"2022-06-07T00:10:15.068Z","pid":4307,"hostname":"archlinux","msg":"handleReaction: Done processing reaction for message [REDACTED]fa8.1 1654559515676. Went from 1 to 2 reactions."}
+{"level":30,"time":"2022-06-07T00:10:15.072Z","pid":4307,"hostname":"archlinux","msg":"Conversation job Reactions.onReaction took 26ms"}
+{"level":30,"time":"2022-06-07T00:10:16.072Z","pid":4307,"hostname":"archlinux","msg":"checkExpiringMessages: checking for expiring messages"}
+{"level":30,"time":"2022-06-07T00:10:16.073Z","pid":4307,"hostname":"archlinux","msg":"checkExpiringMessages: found no messages to expire"}
+{"level":30,"time":"2022-06-07T00:10:26.505Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:10:28.297Z","pid":4307,"hostname":"archlinux","msg":"SocketManager: shutting down unauthenticated socket after timeout"}
+{"level":30,"time":"2022-06-07T00:10:28.297Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResource: no active requests, closing"}
+{"level":30,"time":"2022-06-07T00:10:28.297Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResource.close()"}
+{"level":30,"time":"2022-06-07T00:10:28.298Z","pid":4307,"hostname":"archlinux","msg":"SocketManager: connecting unauthenticated socket"}
+{"level":40,"time":"2022-06-07T00:10:28.318Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResource: Socket closed"}
+{"level":30,"time":"2022-06-07T00:10:28.692Z","pid":4307,"hostname":"archlinux","msg":"SocketManager: connected unauthenticated socket"}
+{"level":30,"time":"2022-06-07T00:11:09.948Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:11:23.697Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:11:25.939Z","pid":4307,"hostname":"archlinux","msg":"RetryPlaceholders.getExpiredAndRemove: Found 0 expired items"}
+{"level":30,"time":"2022-06-07T00:11:25.967Z","pid":4307,"hostname":"archlinux","msg":"retryPlaceholders/interval: Found 0 expired items"}
+{"level":30,"time":"2022-06-07T00:11:26.504Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:12:05.060Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:12:15.046Z","pid":4307,"hostname":"archlinux","msg":"getAllFromCache"}
+{"level":30,"time":"2022-06-07T00:12:15.047Z","pid":4307,"hostname":"archlinux","msg":"getAllFromCache loaded 0 saved envelopes"}
+{"level":30,"time":"2022-06-07T00:12:18.786Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:12:26.507Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:13:00.180Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:13:13.873Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:13:26.506Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:13:55.291Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:14:08.964Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:14:26.508Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:14:50.398Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:15:04.047Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:15:26.507Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:15:45.499Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:15:59.134Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:16:25.939Z","pid":4307,"hostname":"archlinux","msg":"RetryPlaceholders.getExpiredAndRemove: Found 0 expired items"}
+{"level":30,"time":"2022-06-07T00:16:25.958Z","pid":4307,"hostname":"archlinux","msg":"retryPlaceholders/interval: Found 0 expired items"}
+{"level":30,"time":"2022-06-07T00:16:26.510Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:16:40.597Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:16:54.220Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:17:26.509Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}
+{"level":30,"time":"2022-06-07T00:17:35.693Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:17:49.325Z","pid":4307,"hostname":"archlinux","msg":"WebSocketResources: Sending a keepalive message"}
+{"level":30,"time":"2022-06-07T00:18:26.512Z","pid":4307,"hostname":"archlinux","msg":"attachment_downloads/_maybeStartJob: no attachment jobs to run"}

@@ -1,0 +1,18 @@
+[2022-06-06T23:12:27.203Z] Validating found git in: git
+[2022-06-06T23:12:27.216Z] Using git 2.36.1 from git
+[2022-06-06T23:12:27.228Z] > git rev-parse --show-toplevel [4ms]
+[2022-06-06T23:12:27.252Z] > git rev-parse --git-dir --git-common-dir [13ms]
+[2022-06-06T23:12:27.260Z] Open repository: /home/joe/archlabs-qtile
+[2022-06-06T23:12:27.540Z] > git status -z -uall [273ms]
+[2022-06-06T23:12:27.545Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-06T23:12:27.551Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-06-06T23:12:27.560Z] > git remote --verbose [1ms]
+[2022-06-06T23:12:27.561Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-06-06T23:12:27.570Z] > git config --get commit.template [0ms]
+[2022-06-06T23:12:27.811Z] > git check-ignore -v -z --stdin [2ms]
+[2022-06-06T23:57:02.228Z] > git status -z -uall [257ms]
+[2022-06-06T23:57:02.233Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-06T23:57:02.238Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-06-06T23:57:02.246Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-06-06T23:57:02.246Z] > git remote --verbose [1ms]
+[2022-06-06T23:57:02.255Z] > git config --get commit.template [2ms]

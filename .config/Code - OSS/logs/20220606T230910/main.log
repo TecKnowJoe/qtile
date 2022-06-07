@@ -1,0 +1,18 @@
+[2022-06-06 23:09:10.533] [main] [info] window#load: attempt to load window (id: 1)
+[2022-06-06 23:09:10.594] [main] [info] window#load: attempt to load window (id: 2)
+[2022-06-06 23:09:10.605] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-06-06 23:09:10.685] [main] [info] ExtensionHostStarterWorker created
+[2022-06-06 23:09:12.265] [main] [info] window#load: window reported ready (id: 1)
+[2022-06-06 23:09:12.360] [main] [info] window#load: window reported ready (id: 2)
+[2022-06-06 23:09:12.717] [main] [info] Starting extension host with pid 3888 (fork() took 25 ms).
+[2022-06-06 23:09:12.718] [main] [info] ExtensionHostStarterWorker.start() took 29 ms.
+[2022-06-06 23:09:12.871] [main] [info] Starting extension host with pid 3889 (fork() took 36 ms).
+[2022-06-06 23:09:12.872] [main] [info] ExtensionHostStarterWorker.start() took 37 ms.
+[2022-06-06 23:09:21.813] [main] [info] Extension host with pid 3889 exited with code: 0, signal: null.
+[2022-06-06 23:12:24.861] [main] [info] window#load: attempt to load window (id: 2)
+[2022-06-06 23:12:24.895] [main] [info] Extension host with pid 3888 exited with code: 0, signal: null.
+[2022-06-06 23:12:26.073] [main] [info] window#load: window reported ready (id: 2)
+[2022-06-06 23:12:26.325] [main] [info] Starting extension host with pid 4036 (fork() took 10 ms).
+[2022-06-06 23:12:26.325] [main] [info] ExtensionHostStarterWorker.start() took 11 ms.
+[2022-06-06 23:57:05.854] [main] [info] Waiting for extension host with pid 4036 to exit.
+[2022-06-06 23:57:05.890] [main] [info] Extension host with pid 4036 exited with code: 0, signal: null.

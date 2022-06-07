@@ -1,0 +1,6 @@
+2022/06/05-18:43:44.856 e4a Creating DB /home/joe/.config/chromium/Default/IndexedDB/https_forum.endeavouros.com_0.indexeddb.leveldb since it was missing.
+2022/06/05-18:43:44.862 e4a Reusing MANIFEST /home/joe/.config/chromium/Default/IndexedDB/https_forum.endeavouros.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/05-18:48:00.710 e4c Level-0 table #5: started
+2022/06/05-18:48:00.712 e4c Level-0 table #5: 64225 bytes OK
+2022/06/05-18:48:00.714 e4c Delete type=0 #3
+2022/06/05-18:48:00.714 e4c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

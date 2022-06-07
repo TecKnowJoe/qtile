@@ -1,0 +1,23 @@
+[2022-06-06 23:09:14.150] [exthost] [info] Extension host with pid 3888 started
+[2022-06-06 23:09:14.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-06 23:09:14.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-06 23:09:14.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-06 23:09:14.336] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-06 23:09:14.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-06 23:09:14.413] [exthost] [info] Eager extensions activated
+[2022-06-06 23:09:14.437] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-06 23:09:14.452] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-06 23:12:24.871] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-06 23:12:24.876] [exthost] [info] Extension host with pid 3888 exiting with code 0
+[2022-06-06 23:12:27.099] [exthost] [info] Extension host with pid 4036 started
+[2022-06-06 23:12:27.100] [exthost] [info] Skipping acquiring lock for /home/joe/.config/Code - OSS/User/workspaceStorage/1546dbaeb94b71deb2b192620524bbfd.
+[2022-06-06 23:12:27.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-06 23:12:27.172] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-06 23:12:27.175] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-06 23:12:27.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-06 23:12:27.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-06 23:12:27.225] [exthost] [info] Eager extensions activated
+[2022-06-06 23:12:27.243] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-06 23:12:27.248] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-06 23:57:05.833] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-06 23:57:05.856] [exthost] [info] Extension host with pid 4036 exiting with code 0

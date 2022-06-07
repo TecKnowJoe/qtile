@@ -1,0 +1,24 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/background.js" ]
+   },
+   "description": "Simply type 'z {keyword}' in omnibox to open Zapmark in current tab.",
+   "homepage_url": "https://zapmarks.io/",
+   "icons": {
+      "128": "icons/zapmarks-128.png",
+      "16": "icons/zapmarks-16.png",
+      "19": "icons/zapmarks-19.png",
+      "48": "icons/zapmarks-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvOzCk46lZ/YCfM4KOlAaaRJR4hjWdJ4wYSeYVoTTFcP+9+3oz6pHMHEl5/JorL7JqjasZ7k6A5jXJOdNo1sfbtwbSHX3sUwJRulepNrZGR2lt0m6FB+naHPQ63pIsUZIIEIVBc3IdsWZ6EULHBfUbxD393/m91k0BsVEbO4tT1GOfUgXjdoKgw32PozbdR36SwnV8IMBT7P0HhHppwIRzlM2r/DKBo5VYvQen5eqkQvWxhZl8Rq+4y4f/qsL7r68S0kl9VAdl5Ss9mO7mxzSPtxUOSG7kOQ6ojLXalXuFy+W9z6RjtbgQWRO1UNcjU+9CA7nruDN4StzwKnq3KA3aQIDAQAB",
+   "manifest_version": 2,
+   "name": "Zapmarks",
+   "omnibox": {
+      "keyword": "z"
+   },
+   "options_page": "options/index.html",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}

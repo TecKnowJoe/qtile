@@ -1,0 +1,5 @@
+[2022-06-06 23:09:15.053] [sharedprocess] [info] Starting worker process with pid 3941 (type: fileWatcher, window: 1).
+[2022-06-06 23:09:15.054] [sharedprocess] [info] Starting worker process with pid 3942 (type: fileWatcher, window: 2).
+[2022-06-06 23:09:21.766] [sharedprocess] [info] Worker process with pid 3941 terminated normally (type: fileWatcher, window: 1).
+[2022-06-06 23:12:24.898] [sharedprocess] [info] Worker process with pid 3942 terminated normally (type: fileWatcher, window: 2).
+[2022-06-06 23:12:26.350] [sharedprocess] [info] Starting worker process with pid 4037 (type: fileWatcher, window: 2).

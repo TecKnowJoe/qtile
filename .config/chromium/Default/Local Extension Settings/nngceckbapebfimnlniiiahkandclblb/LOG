@@ -1,0 +1,10 @@
+2022/06/06-22:13:26.094 394 Reusing MANIFEST /home/joe/.config/chromium/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2022/06/06-22:13:26.095 394 Recovering log #17
+2022/06/06-22:13:26.107 394 Level-0 table #21: started
+2022/06/06-22:13:26.126 394 Level-0 table #21: 2383062 bytes OK
+2022/06/06-22:13:26.128 394 Delete type=0 #17
+2022/06/06-22:14:54.750 553 Moved #21 to level-1 2383062 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2022/06/06-22:27:55.756 684 Compacting 1@1 + 1@2 files
+2022/06/06-22:27:55.760 684 Generated table #23@1: 7 keys, 239201 bytes
+2022/06/06-22:27:55.760 684 Compacted 1@1 + 1@2 files => 239201 bytes
+2022/06/06-22:27:55.762 684 compacted to: files[ 0 0 1 0 0 0 0 ]

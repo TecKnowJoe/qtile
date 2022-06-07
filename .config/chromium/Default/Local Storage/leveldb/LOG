@@ -1,0 +1,39 @@
+2022/06/06-22:13:25.351 5 Reusing MANIFEST /home/joe/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/06/06-22:13:25.353 5 Recovering log #106
+2022/06/06-22:13:25.354 5 Reusing old log /home/joe/.config/chromium/Default/Local Storage/leveldb/000106.log 
+2022/06/06-22:29:11.689 7 Level-0 table #110: started
+2022/06/06-22:29:11.694 7 Level-0 table #110: 18716 bytes OK
+2022/06/06-22:29:11.698 7 Delete type=0 #106
+2022/06/06-22:29:11.699 7 Compacting 4@0 + 1@1 files
+2022/06/06-22:29:11.717 7 Generated table #111@0: 554 keys, 744783 bytes
+2022/06/06-22:29:11.717 7 Compacted 4@0 + 1@1 files => 744783 bytes
+2022/06/06-22:29:11.719 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/06-22:29:11.720 7 Delete type=2 #101
+2022/06/06-22:29:11.720 7 Delete type=2 #107
+2022/06/06-22:29:11.720 7 Delete type=2 #105
+2022/06/06-22:29:11.720 7 Delete type=2 #103
+2022/06/06-22:29:11.720 7 Delete type=2 #110
+2022/06/06-22:55:22.792 13 Level-0 table #113: started
+2022/06/06-22:55:22.796 13 Level-0 table #113: 17402 bytes OK
+2022/06/06-22:55:22.798 13 Delete type=0 #109
+2022/06/06-23:14:56.909 15 Level-0 table #115: started
+2022/06/06-23:14:56.914 15 Level-0 table #115: 17536 bytes OK
+2022/06/06-23:14:56.916 15 Delete type=0 #112
+2022/06/06-23:58:57.650 22 Level-0 table #117: started
+2022/06/06-23:58:57.656 22 Level-0 table #117: 191358 bytes OK
+2022/06/06-23:58:57.658 22 Delete type=0 #114
+2022/06/07-00:07:28.877 28 Level-0 table #119: started
+2022/06/07-00:07:28.883 28 Level-0 table #119: 183400 bytes OK
+2022/06/07-00:07:28.885 28 Delete type=0 #116
+2022/06/07-00:07:28.886 28 Compacting 4@0 + 1@1 files
+2022/06/07-00:07:28.904 28 Generated table #120@0: 569 keys, 760760 bytes
+2022/06/07-00:07:28.904 28 Compacted 4@0 + 1@1 files => 760760 bytes
+2022/06/07-00:07:28.906 28 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/07-00:07:28.906 28 Delete type=2 #119
+2022/06/07-00:07:28.906 28 Delete type=2 #117
+2022/06/07-00:07:28.906 28 Delete type=2 #115
+2022/06/07-00:07:28.906 28 Delete type=2 #113
+2022/06/07-00:07:28.906 28 Delete type=2 #111
+2022/06/07-00:16:54.538 28 Level-0 table #122: started
+2022/06/07-00:16:54.547 28 Level-0 table #122: 188949 bytes OK
+2022/06/07-00:16:54.550 28 Delete type=0 #118

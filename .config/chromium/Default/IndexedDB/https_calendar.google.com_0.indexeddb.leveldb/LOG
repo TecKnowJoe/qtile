@@ -1,0 +1,7 @@
+2022/06/06-23:16:34.145 1022 Reusing MANIFEST /home/joe/.config/chromium/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/06-23:16:34.146 1022 Recovering log #3
+2022/06/06-23:16:34.146 1022 Reusing old log /home/joe/.config/chromium/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000003.log 
+2022/06/06-23:16:58.778 96b Level-0 table #5: started
+2022/06/06-23:16:58.779 96b Level-0 table #5: 1314 bytes OK
+2022/06/06-23:16:58.781 96b Delete type=0 #3
+2022/06/06-23:16:58.781 96b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
